@@ -1,16 +1,32 @@
-## Hi there 👋
+### Utkarsh Sharma
 
-<!--
-**urrkarsh4221/urrkarsh4221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech IT Student at Ajay Kumar Garg Engineering College (AKGEC), Ghaziabad.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a first-year Information Technology student interested in programming, web development, and emerging technologies.
+
+- Currently learning C, Python, HTML and CSS.
+- Exploring web development and AI.
+- Interested in problem-solving and creative thinking.
+- Focused on learning, experimenting, and building projects.
+
+## Skills & Technologies
+
+- Languages: C, HTML
+- Tools: Nothing yet
+
+## Currently Working On
+
+- Strengthening programming fundamentals.
+- Learning web development.
+- Building my first projects.
+- Exploring AI-powered website development.
+
+## Connect With Me
+
+GitHub: [Your GitHub Profile URL]
+
+---
+
+This profile documents my learning journey, projects, and growth as a developer.
