@@ -6,7 +6,7 @@ B.Tech IT Student at Ajay Kumar Garg Engineering College (AKGEC), Ghaziabad.
 
 I'm a first-year Information Technology student interested in programming, web development, and emerging technologies.
 
-- Currently learning C, Python, HTML and CSS.
+- Currently learning C, HTML.
 - Exploring web development and AI.
 - Interested in problem-solving and creative thinking.
 - Focused on learning, experimenting, and building projects.
@@ -25,7 +25,7 @@ I'm a first-year Information Technology student interested in programming, web d
 
 ## Connect With Me
 
-GitHub: [Your GitHub Profile URL]
+GitHub: [https://github.com/urrkarsh4221]
 
 ---
 
